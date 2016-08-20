@@ -1,4 +1,6 @@
 # DeviceInfo
+<h2>介绍</h2>
+<p>针对屏幕尺寸、导航栏及其他的使用</p>
 <h2>安装</h2>
 <ul>
 <li>pod 'DeviceInfo'</li>
